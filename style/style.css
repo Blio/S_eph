@@ -102,7 +102,13 @@ body {
   font-size: 4rem;
 }
 
-.idea-5 span,
+.idea-5 span{
+  display: inline-block;
+}
+
+
+
+
 .idea-6 span,
 .wish-hbd span {
   display: inline;
