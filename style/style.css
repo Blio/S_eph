@@ -280,7 +280,7 @@ body {
   }
 
   .idea-5 span {
-    display: block;
+    display: inline-block;
   }
 
   .idea-6 span {
